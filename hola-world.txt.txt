@@ -1,6 +1,10 @@
 Hola Mundo!
 
+<<<<<<< HEAD
 master was here 
+=======
+master was her
+>>>>>>> luck
 
 Здел был Петя!
 Здесь был Вася!
