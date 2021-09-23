@@ -1,8 +1,6 @@
 Hola Mundo!
 
-<<<<<<< HEAD
+master was her
 
 Здел был Петя!
-=======
 Здесь был Вася!
->>>>>>> vasya
